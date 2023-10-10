@@ -53,7 +53,7 @@ Your Name
    ```
 ​
 ​
-3. The script will send personalized emails to John Doe and Jane Smith with their respective names and email addresses.
+4. The script will send personalized emails to John Doe and Jane Smith with their respective names and email addresses.
 ​
 ### License
 ​
