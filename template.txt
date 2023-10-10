@@ -1,0 +1,14 @@
+Hello ${PERSON_NAME} | ID: ${EMPLOYEE_ID}, 
+
+This is an automated email, informing you that all offices will be closed on ${DATE} for maintenace. You will not be allowed entry into the building.
+
+You should still have your weekly-report completed by 4PM on ${DATE}. Please email your respective supervisor (contact information below) an attatchment of your report. 
+
+Thank you for your time and support as we continue to renovate our office spaces. Have a wonderful weekend and see you all next week! 
+
+Supervisor Contact Information:
+Name: ${SUPERVISOR}
+Email: ${SUPEMAIL}
+
+Sincerely, 
+Dev Patel
